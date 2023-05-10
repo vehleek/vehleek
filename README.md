@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vehleek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to whistle 
+- 🌱 I’m currently learning pygame
 - 💞️ I’m looking to collaborate on stuff and things
 - 📫 How to reach me if you know me
 
